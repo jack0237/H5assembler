@@ -67,7 +67,7 @@ h5assembler offers you a technology allowing you to reduce your html code and gu
 </html>
 ```
 
-in in the same directory than index.html run command ``H5A index.html output.html``.
+In the same directory than index.html run command ``H5A index.html output.html``.
 this command will generate an output.html file with the following content
 **output.html**
 
